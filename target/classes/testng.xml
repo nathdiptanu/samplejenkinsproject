@@ -1,0 +1,9 @@
+<!--  -->
+<suite name="Any Name">;
+	<test name="Any Name">;
+		
+<classes>
+<class name="testng.NewTest" ></class>;
+</classes>;
+</test>
+</suite>

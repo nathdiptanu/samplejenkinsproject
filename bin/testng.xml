@@ -1,0 +1,18 @@
+<!--  -->
+<suite name="Any Name">;
+	<test name="Any Name">;
+		<groups>
+		<define name="All">
+			<include name="Scooty"/>
+			<include name="Cars"/>
+		</define>
+		<run>
+			<include name="All"/>	
+			</run>
+		</groups>
+		<parameter name="u" value="123"/>
+<classes>
+<class name="testng.Testng" ></class>;
+</classes>;
+</test>
+</suite>
