@@ -18,6 +18,9 @@ public class NewTest {
   @BeforeMethod
   public void beforeMethod() {
 	  System.out.println("dip1");
+	  System.out.println("dip11");
+	  System.out.println("dip12");
+	  System.out.println("dip13");
   }
 
   @AfterMethod
